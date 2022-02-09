@@ -4,20 +4,170 @@
     "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
     "speed": 70,
     "odometer": 406,
-    "engineHours": 6
+    "engineHours": 6,
+    "video": [
+      {
+        "frontCamera": {
+          "isMain": true,
+          "isLive": true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+      }
+      },
+      {
+        "driverCamera": {
+          "isMain": true,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+      }
+      },
+      {
+        "backCamera": {
+          "isMain": false,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+      }
+      },
+      {
+        "passengersCamera": {
+          "isMain": false,
+          "isLive":  true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+      }
+      }
+    ]
   },
   "345-67-887": {
     "eventStatus": "Acceleration",
     "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
     "speed": 59,
     "odometer": 600,
-    "engineHours": 2.5
+    "engineHours": 2.5,
+    "video": [
+      {
+        "frontCamera": {
+          "isMain": true,
+          "isLive": true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "driverCamera": {
+          "isMain": true,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "backCamera": {
+          "isMain": false,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "passengersCamera": {
+          "isMain": false,
+          "isLive":  true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      }
+    ]
   },
   "243-554-987": {
     "eventStatus": "Right Turn Low Level",
     "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
     "speed": 91,
     "odometer": 705,
-    "engineHours": 4
+    "engineHours": 4,
+    "video": [
+      {
+        "frontCamera": {
+          "isMain": true,
+          "isLive": true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "driverCamera": {
+          "isMain": true,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "backCamera": {
+          "isMain": false,
+          "isLive":  false,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      },
+      {
+        "passengersCamera": {
+          "isMain": false,
+          "isLive":  true,
+          "stream": "clip of session stream to show",
+          "images": [
+            "url1",
+            "url2",
+            "url3"
+          ]
+        }
+      }
+    ]
   }
 }
