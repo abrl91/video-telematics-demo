@@ -13,11 +13,11 @@ export class AppController {
   getSessions() {
     return this.appService.getAllSessions();
   }
-  @Get('/clips/:vehicleNumber')
+  @Get('clips/:vehicleNumber')
   getClipData(@Param('vehicleNumber') vehicleNumber: string) {
     return this.appService.getVideoData(vehicleNumber);
   }
-  @Get('/session/:vehicleNumber')
+  @Get('sessions/:vehicleNumber')
   getSessionData(@Param('vehicleNumber') vehicleNumber: string) {
     return this.appService.getVideoData(vehicleNumber);
   }
