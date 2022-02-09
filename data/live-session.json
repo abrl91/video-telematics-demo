@@ -1,0 +1,23 @@
+[
+  {
+    "vehicleNumber": "123-45-678",
+    "vinNumber": "5VCACRAF2MC",
+    "vehicleType": "truck",
+    "model": "ACX-6X4-ASL-N",
+    "group": "2501 N Raleigh"
+  },
+  {
+    "vehicleNumber": "345-67-887",
+    "vinNumber": "4JF78SDC123D",
+    "vehicleType": "van",
+    "model": "ACX-6X4-ASL-N",
+    "group": "2501 N Raleigh"
+  },
+  {
+    "vehicleNumber": "243-554-987",
+    "vinNumber": "64LFV264FFDV",
+    "vehicleType": "transport",
+    "model": "ACX-6X4-ASL-N",
+    "group": "2501 N Raleigh"
+  }
+]

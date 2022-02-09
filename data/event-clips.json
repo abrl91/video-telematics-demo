@@ -1,0 +1,23 @@
+[
+  {
+    "vehicleNumber": "123-45-678",
+    "eventStatus": "Left Turn Low Level",
+    "eventTime": "1644404393357",
+    "eventType": "Safety",
+    "eventCategory": "Turn"
+  },
+  {
+    "vehicleNumber": "345-67-887",
+    "eventStatus": "Acceleration",
+    "eventTime": "1644404451245",
+    "eventType": "Safety",
+    "eventCategory": "Acceleration"
+  },
+  {
+    "vehicleNumber": "243-554-987",
+    "eventStatus": "Right Turn Low Level",
+    "eventTime": "1644404463957",
+    "eventType": "Safety",
+    "eventCategory": "Turn"
+  }
+]

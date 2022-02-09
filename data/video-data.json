@@ -1,0 +1,23 @@
+{
+  "123-45-678": {
+    "eventStatus": "Left Turn Low Level",
+    "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
+    "speed": 70,
+    "odometer": 406,
+    "engineHours": 6
+  },
+  "345-67-887": {
+    "eventStatus": "Acceleration",
+    "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
+    "speed": 59,
+    "odometer": 600,
+    "engineHours": 2.5
+  },
+  "243-554-987": {
+    "eventStatus": "Right Turn Low Level",
+    "location": "2451 S Sheridan Rd, Lennon, Mi4844\n",
+    "speed": 91,
+    "odometer": 705,
+    "engineHours": 4
+  }
+}
